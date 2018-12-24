@@ -11,3 +11,11 @@ License: GNU General Public License v2 or later
 License URI: LICENSE
 */
 
+.wrap{
+    width:100%;
+    min-height:100%;
+}
+
+header *{
+    backgrund:#e1b4c7;
+}
