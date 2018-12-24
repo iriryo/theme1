@@ -1,0 +1,6 @@
+first:
+        必要最低限な部分
+second:
+        余計なファイル削除
+third:
+        indexの大枠作成
